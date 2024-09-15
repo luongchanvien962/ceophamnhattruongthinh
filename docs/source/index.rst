@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+Phạm Nhật Trường Thịnh -  CEO của tập đoàn cá cược lớn nhất châu Á tại Việt Nam
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Phạm Nhật Trường Thịnh <https://dagatructiep.love/tac-gia-ceo-pham-nhat-truong-thinh/>`_ sinh năm 1980, hiện là CEO của tập đoàn cá cược lớn nhất châu Á, là một trong những nhân vật nổi bật và có ảnh hưởng lớn trong lĩnh vực cá cược đá gà trực tiếp.  Với nhiều năm kinh nghiệm và sự am hiểu sâu sắc về ngành cá cược, ông đã khẳng định được vị thế của mình như một chuyên gia hàng đầu trong việc phân tích và dự đoán tỉ lệ cá cược.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Cổng Game Đá Gà Trực Tiếp Online
 
-   This project is under active development.
+Địa chỉ: 180 Nguyễn Lương Bằng, Chợ Dừa, Đống Đa, Hà Nội
 
-Contents
---------
+Website: https://dagatructiep.love/tac-gia-ceo-pham-nhat-truong-thinh/
 
-.. toctree::
+Email: dagatructiep@support.com
 
-   usage
-   api
+Hotline: +84 919001888
+
+#dagatructiep #dangkydagatructiep #cacuocdaga #dagaonline #dagathomo
